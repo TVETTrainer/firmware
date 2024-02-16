@@ -10,7 +10,7 @@
             "chipFamily": "ESP8266",
             "parts": [
                 {
-                    "path": "bin/esp8266_offline_dashboard.ino.bin",
+                    "path": "https://github.com/TVETTrainer/firmware/raw/main/bin/esp8266_offline_dashboard.ino.bin",
                     "offset": "0"
                 }
             ]
